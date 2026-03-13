@@ -1,0 +1,424 @@
+{
+  "name": "section.family-scroll-info.reveal.active",
+  "type": "FRAME",
+  "x": 0,
+  "y": 2000,
+  "width": 1846,
+  "height": 266,
+  "clipsContent": false,
+  "children": [
+    {
+      "name": "div.inner",
+      "type": "FRAME",
+      "x": 0,
+      "y": 1,
+      "width": 1846,
+      "height": 184,
+      "layoutMode": "VERTICAL",
+      "clipsContent": false,
+      "children": [
+        {
+          "name": "div",
+          "type": "FRAME",
+          "x": 0,
+          "y": 0,
+          "width": 1846,
+          "height": 152,
+          "layoutMode": "VERTICAL",
+          "clipsContent": false,
+          "children": [
+            {
+              "name": "h3:margin",
+              "type": "FRAME",
+              "x": 0,
+              "y": 60,
+              "width": 1846,
+              "height": 48,
+              "layoutMode": "VERTICAL",
+              "clipsContent": false,
+              "children": [
+                {
+                  "name": "h3",
+                  "type": "FRAME",
+                  "x": 0,
+                  "y": 0,
+                  "width": 1846,
+                  "height": 38,
+                  "clipsContent": false,
+                  "children": [
+                    {
+                      "name": "Tomato Network",
+                      "type": "TEXT",
+                      "x": 828,
+                      "y": 4,
+                      "width": 191,
+                      "height": 30
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "p",
+              "type": "FRAME",
+              "x": 0,
+              "y": 108,
+              "width": 1846,
+              "height": 24,
+              "clipsContent": false,
+              "children": [
+                {
+                  "name": "미디어토마토와 함께하는 강력한 미디어",
+                  "type": "TEXT",
+                  "x": 779,
+                  "y": 3,
+                  "width": 289,
+                  "height": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "div.family-scroll-container:margin",
+          "type": "FRAME",
+          "x": 0,
+          "y": 152,
+          "width": 1846,
+          "height": 32,
+          "layoutMode": "VERTICAL",
+          "clipsContent": false,
+          "children": [
+            {
+              "name": "div.family-scroll-container",
+              "type": "FRAME",
+              "x": 0,
+              "y": 0,
+              "width": 1200,
+              "height": 32,
+              "clipsContent": false,
+              "children": [
+                {
+                  "name": "div.family-track",
+                  "type": "FRAME",
+                  "x": -101,
+                  "y": 0,
+                  "width": 2137,
+                  "height": 32,
+                  "layoutMode": "HORIZONTAL",
+                  "clipsContent": false,
+                  "children": [
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 0,
+                      "y": 0,
+                      "width": 86,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "뉴스토마토",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 88,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 137,
+                      "y": 0,
+                      "width": 80,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토TV",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 81,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 266,
+                      "y": 0,
+                      "width": 86,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토레터",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 88,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 403,
+                      "y": 0,
+                      "width": 52,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "뉴스통",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 53,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 505,
+                      "y": 0,
+                      "width": 86,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토체인",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 88,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 641,
+                      "y": 0,
+                      "width": 95,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "tomatoTV",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 97,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 786,
+                      "y": 0,
+                      "width": 104,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토증권통",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 105,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 940,
+                      "y": 0,
+                      "width": 104,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토클래식",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 105,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 1094,
+                      "y": 0,
+                      "width": 86,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "뉴스토마토",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 88,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 1230,
+                      "y": 0,
+                      "width": 80,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토TV",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 81,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 1360,
+                      "y": 0,
+                      "width": 86,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토레터",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 88,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 1496,
+                      "y": 0,
+                      "width": 52,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "뉴스통",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 53,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 1598,
+                      "y": 0,
+                      "width": 86,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토체인",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 88,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 1735,
+                      "y": 0,
+                      "width": 95,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "tomatoTV",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 97,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 1880,
+                      "y": 0,
+                      "width": 104,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토증권통",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 105,
+                          "height": 25
+                        }
+                      ]
+                    },
+                    {
+                      "name": "span.family-item",
+                      "type": "FRAME",
+                      "x": 2034,
+                      "y": 0,
+                      "width": 104,
+                      "height": 32,
+                      "clipsContent": false,
+                      "children": [
+                        {
+                          "name": "토마토클래식",
+                          "type": "TEXT",
+                          "x": 0,
+                          "y": 4,
+                          "width": 105,
+                          "height": 25
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "plugin",
+  "version": "2.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build && npx esbuild src/code/code.ts --bundle --outfile=dist/code.js --target=es6",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.123.0",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.4",
+    "esbuild": "^0.27.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vite-plugin-singlefile": "^2.3.0"
+  }
+}
