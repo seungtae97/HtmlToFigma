@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+.DS_Store
+dist/
+build/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary files
+files.txt
+.claude/
+tmp/
